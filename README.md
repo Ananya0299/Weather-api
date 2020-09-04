@@ -1,2 +1,2 @@
 # Weather-api
-This API is to know the weather status of the cities.
+This API is to know the weather status of the citiy.
